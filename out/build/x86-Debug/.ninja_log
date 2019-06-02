@@ -1,0 +1,8 @@
+# ninja log v5
+1	192	581215314	sorting/CMakeFiles/sorting.dir/sorting.cpp.obj	1239b999fa99254d
+192	1984	581215316	sorting/sorting.dll	ceb9fa3bc26d9721
+192	1984	581215316	sorting/sorting.lib	ceb9fa3bc26d9721
+2	340	581215324	io/CMakeFiles/io.dir/io.cpp.obj	8b216ccd7e66c604
+340	649	581215324	io/io.lib	59127cf23122a3c8
+0	1607	581215325	CMakeFiles/lab_2.dir/main.cpp.obj	85323974b5d2d655
+1608	5573	581215329	lab_2.exe	934b794685023eb8

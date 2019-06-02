@@ -1,0 +1,9 @@
+E:/Work/LEVINA_CPP_LABS/LAB_2_LOC/LAB_2/out/build/x86-Debug/CMakeFiles/lab_2.dir
+E:/Work/LEVINA_CPP_LABS/LAB_2_LOC/LAB_2/out/build/x86-Debug/CMakeFiles/edit_cache.dir
+E:/Work/LEVINA_CPP_LABS/LAB_2_LOC/LAB_2/out/build/x86-Debug/CMakeFiles/rebuild_cache.dir
+E:/Work/LEVINA_CPP_LABS/LAB_2_LOC/LAB_2/out/build/x86-Debug/io/CMakeFiles/io.dir
+E:/Work/LEVINA_CPP_LABS/LAB_2_LOC/LAB_2/out/build/x86-Debug/io/CMakeFiles/edit_cache.dir
+E:/Work/LEVINA_CPP_LABS/LAB_2_LOC/LAB_2/out/build/x86-Debug/io/CMakeFiles/rebuild_cache.dir
+E:/Work/LEVINA_CPP_LABS/LAB_2_LOC/LAB_2/out/build/x86-Debug/sorting/CMakeFiles/sorting.dir
+E:/Work/LEVINA_CPP_LABS/LAB_2_LOC/LAB_2/out/build/x86-Debug/sorting/CMakeFiles/edit_cache.dir
+E:/Work/LEVINA_CPP_LABS/LAB_2_LOC/LAB_2/out/build/x86-Debug/sorting/CMakeFiles/rebuild_cache.dir
